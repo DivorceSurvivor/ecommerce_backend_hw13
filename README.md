@@ -6,6 +6,11 @@ This is a backend application for ecommerce platform.
 
 ## Demo
 
+
+https://user-images.githubusercontent.com/86085901/171119584-29a1adac-eb19-42a6-a8db-b5b89bf52aa7.mp4
+
+
+
 ## Usage
 
 Create the schema from the MySQL shell:
